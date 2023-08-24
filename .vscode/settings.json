@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "dialog.h": "c",
+        "raylib.h": "c"
+    }
+}
